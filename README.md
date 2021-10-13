@@ -5,7 +5,7 @@ El siguiente documento delinea el proceso de restauración del sitio a raíz del
 
 
 
-1. Descargar el archivo zip adjunto al correo titulado "Entrega Documentos Sicoa", el archivo se llama, public_html.zip
+1. Descargar el archivo zip adjunto al correo titulado "Entrega Documentos Llama Studios", el archivo se llama, public_html.zip
 
 2. Ingresar al cPanel, como ingresar esta detallado en el manual de uso del sitio
 
